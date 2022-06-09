@@ -2,5 +2,6 @@
 This is the code for the first game - asteroids. 
 
 In this code, all the data and lines of code needed are present and attatched.
+This is the code for our first game, for the ICS culminating.
 
 
